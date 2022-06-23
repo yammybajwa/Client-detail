@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+ 
+}
+.btn{
+    display: block;
+  width: 100%;
+  border: none;
+  background-color: #04AA6D;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.delBtn{
+  outline: none;
+  border: none;
+}
+.hover{
+  cursor: pointer;
+}
+.width{
+  width: 50px;
+}
+
+
